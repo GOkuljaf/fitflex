@@ -5,9 +5,6 @@
 -----
 ### Version 1 : 
 Project: Health & Fitness website with complete authentication made using React.js
-Original-Design: [HERE!](https://www.behance.net/gallery/78953297/Health-Fitness-Mobile-App-UI-UX-Kit?tracking_source=search_projects%7Chealth+fitness)
-
-Health & Fitness-Website version 1 hosted [HERE!](https://health&fitnessapp.netlify.app/)
 
 **Progress:**
 
@@ -15,9 +12,6 @@ Version 1 completed and hosted
 
 Version 2 Progress: 50%
 
-
-## Home Page
-![health fitness](https://github.com/GOkuljaf/polite-sheep-7319/assets/img/Home_page.png)
 
 ## Program Page
 ![TrackDataPage](https://github.com/GOkuljaf/fitflex/blob/main/src/assets/img/program.png)
