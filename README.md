@@ -12,6 +12,32 @@ Version 1 completed and hosted
 
 Version 2 Progress: 50%
 
+### Documentation
+For detailed documentation, refer to [Project Documentation](https://drive.google.com/drive/folders/1dxOgqQFZUo4aNB_oHbcYIIZzKJpx_Pgs?usp=sharing).
+
+### Documentation
+For detailed project Documentation , refer to [Documentation](https://docs.google.com/document/d/1L_qhbq3FmtcGoNzo9Anen-tHnFSt75--/edit?usp=sharing&ouid=112847039306886690519&rtpof=true&sd=true).
+
+### Demo video
+for Detailed Demo video , refer to [project Demo video](https://drive.google.com/file/d/1FjcMCRR1bCbAUT1oEg0-tgivoXI6ZhmN/view?usp=sharing).
+
+Team members:
+
+D.Gokul
+[Email](gokul241810@gmail.com)
+
+V.Bharathi kannan
+[Email](chillchinni24@gmail.com)
+
+V.Vinoth kumar
+[Email](vinothv2003@gmail.com)
+
+N.Vignesh
+[Email](vigneshnarayanan1711@gmail.com)
+
+J.Jayasurya
+[Email](jayasuryaa049@gmail.com)
+
 
 ## Program Page
 ![TrackDataPage](https://github.com/GOkuljaf/fitflex/blob/main/src/assets/img/program.png)
