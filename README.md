@@ -40,7 +40,7 @@ J.Jayasurya
 
 
 ## Program Page
-![TrackDataPage](https://github.com/GOkuljaf/fitflex/blob/main/src/assets/img/program.png)
+![TrackDataPage](https://github.com/GOkuljaf/src/assets/img/program.png)
 
 This is a health & fitness website which specialize in tracking your fitness activities. The website provides fitness programs,fitness tracking dashboard and fitness related memberships .
 
